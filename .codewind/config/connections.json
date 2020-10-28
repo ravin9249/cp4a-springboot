@@ -1,0 +1,14 @@
+{
+	"schemaversion": 1,
+	"connections": [
+		{
+			"id": "local",
+			"label": "Codewind local connection",
+			"url": "",
+			"auth": "",
+			"realm": "",
+			"clientid": "",
+			"username": ""
+		}
+	]
+}
